@@ -81,7 +81,6 @@ If you like this project please give a star...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./ToDo-List-App/license.md
-) licensed.
+This project is [MIT](./license.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
