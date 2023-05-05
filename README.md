@@ -32,7 +32,7 @@
 
 # 📖 To Do List app structure <a name="about-project"></a>
 
-> n this project the basic structure of To Do list app is built.
+> In this project add, remove and edit functionality of To Do list app is built.
 
 
 **To Do List app** is a...
