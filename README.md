@@ -1,13 +1,9 @@
-# ToDo-List-App
-# To-Do-list
 <a name="readme-top"></a>
 
 <div align="center">
+  
 
-  <img src="/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>To Do List </b></h3>
+  <h3><b>To Do List</b></h3>
 
 </div>
 
@@ -17,21 +13,46 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Clone](#clone)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  To Do list structure  <a name="about-project"></a>
+# 📖 To Do List app structure <a name="about-project"></a>
 
-> In this project the basic structure of To Do list app is built.
+> n this project the basic structure of To Do list app is built.
+
+
+**To Do List app** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
-> HTML, Javascript and CSS
+
+### Tech Stack <a name="tech-stack"></a>
+
+> HTMl
+> CSS
+> JavaScript
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- ** Data is updated dynamically **
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,26 +61,58 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To get a local copy up and running, follow these steps.
+> To get a local copy up and running, follow these steps:
 
-### Clone
+Clone this repo as described in the setup section.
+Make modifications as peferred
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need: To clone or fork and run it in a browser
+
+
+### Setup
 
 Clone this repository to your desired folder:
 
-  git clone https://github.com/hiwina/ToDo-List-App
+Example commands:
+```sh
+  cd my-folder
+  git clone https://github.com/hiwina/ToDo-List.git
+```
+### Install
 
+There is no installation required.
+
+
+### Usage
+
+To run the project, open with index.html with any web browser.
+
+### Run tests
+
+No test available for this project.
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Hiwot Bayissa"></a><a name="authors"></a>
 
-> 
 
-👤 Hiwot Bayissa
+- GitHub: [@hiwina](https://github.com/hiwina)
+- LinkedIn: [Hiwot Bayissa](https://www.linkedin.com/in/hiwot-bayissa-1a015491/)
 
- GitHub: [@github/hiwina](https://github.com/hiwina)
-> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+>Build user interactive to do list which adds and remove to do list
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -67,13 +120,24 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](https://github.com/hiwina/ToDo-List-App/issues).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give a star...
+
+> Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank Microverse community for facilitating this course.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,6 +145,7 @@ If you like this project please give a star...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
